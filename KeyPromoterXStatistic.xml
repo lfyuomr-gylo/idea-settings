@@ -14,7 +14,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>7</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="GoTo">
@@ -22,7 +22,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>13</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -70,7 +70,15 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'course2.week2.StringReconstructionFromReadPairsKt'</Description>
-          <Count>2</Count>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'course2.week2.StringReconstructionKt'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'course2.week2.StringReconstructionKt'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'course2.week2.StringSpelledByGappedPatternsKt'">
@@ -94,7 +102,15 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>19</Count>
+          <Count>25</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'course2.week2.StringReconstructionFromRe...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'course2.week2.StringReconstructionFromRe...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">
@@ -110,7 +126,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'course2.week2.ContigsKt'">
@@ -129,20 +145,30 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'course2.week2.StringReconstructionFromReadPairsKt'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'course2.week2.StringReconstructionFromReadPairsKt'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Terminal">
         <Item>
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>12</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
+    </option>
+    <option name="suppressed">
       <Statistic Action="Toggle Line Breakpoint">
         <Item>
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>10</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
     </option>
