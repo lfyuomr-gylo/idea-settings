@@ -22,7 +22,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'course2.week2.KUniversalCircularStringKt'">
@@ -31,6 +31,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'course2.week2.KUniversalCircularStringKt'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'course2.week2.PairedCompositionKt'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'course2.week2.PairedCompositionKt'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
