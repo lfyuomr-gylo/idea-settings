@@ -110,7 +110,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>47</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'course2.week2.StringReconstructionFromRe...'">
@@ -174,7 +174,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>16</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Case">
