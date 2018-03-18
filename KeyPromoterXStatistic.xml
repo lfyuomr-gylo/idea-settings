@@ -22,7 +22,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>28</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -97,12 +97,20 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'course2.week4.AllTasksKt'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'course2.week4.AllTasksKt'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Resume Program">
         <Item>
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>4</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -110,7 +118,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>50</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'course2.week2.StringReconstructionFromRe...'">
@@ -134,7 +142,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>4</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'course2.week2.ContigsKt'">
@@ -174,7 +182,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'course2.week4.AllTasksKt'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -190,7 +198,7 @@
           <IdeaActionID>EditorToggleCase</IdeaActionID>
           <ShortCut>'Ctrl+Shift+U'</ShortCut>
           <Description>Toggle Case</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
     </option>
