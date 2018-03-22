@@ -57,6 +57,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Project Structure...">
+        <Item>
+          <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
+          <Description>Project Structure...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'course2.week2.KUniversalCircularStringKt'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -153,6 +161,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Settings...">
+        <Item>
+          <IdeaActionID>ShowSettings</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+S'</ShortCut>
+          <Description>Settings...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Step Into">
         <Item>
           <IdeaActionID>StepInto</IdeaActionID>
@@ -223,6 +239,14 @@
           <ShortCut>'Ctrl+Shift+U'</ShortCut>
           <Description>Toggle Case</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Type Declaration">
+        <Item>
+          <IdeaActionID>GotoTypeDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+B' or 'Ctrl+Shift+Button1 Click'</ShortCut>
+          <Description>Type Declaration</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
