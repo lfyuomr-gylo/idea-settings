@@ -14,7 +14,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>14</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="GoTo">
@@ -22,7 +22,15 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>36</Count>
+          <Count>56</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hide All Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F12'</ShortCut>
+          <Description>Hide All Windows</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -30,7 +38,15 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Messages</Description>
-          <Count>4</Count>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="New Folder...">
+        <Item>
+          <IdeaActionID>FileChooser.NewFolder</IdeaActionID>
+          <ShortCut>'Alt+Insert' or 'Ctrl+N'</ShortCut>
+          <Description>New Folder...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -38,7 +54,55 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>5</Count>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project Structure...">
+        <Item>
+          <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
+          <Description>Project Structure...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'All in bmp-steganography_test'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'All in bmp-steganography_test'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'BitmapInfoHeaderTests'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'BitmapInfoHeaderTests'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'BitmapInfoHeaderTests.shouldRecognizeImageShapeCorrectly'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'BitmapInfoHeaderTests.shouldRecognizeImageShapeCorrectly'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ChannelMasksTests.shouldApplyChannelMapperOnlyOnActiveFilters'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'ChannelMasksTests.shouldApplyChannelMapperOnlyOnActiveFilters'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'RlePixmapReaderTests.shouldGiveAllPixelValuesToConsumerUsingProvidedChannelMasksAndCallFinish'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'RlePixmapReaderTests.shouldGiveAllPixelValuesToConsumerUsingProvidedChannelMasksAndCallFinish'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'course2.week2.KUniversalCircularStringKt'">
@@ -105,12 +169,20 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Restore Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F12'</ShortCut>
+          <Description>Restore Windows</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Resume Program">
         <Item>
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>26</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -118,7 +190,15 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>51</Count>
+          <Count>68</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'All Tests'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'All Tests'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'course2.week2.StringReconstructionFromRe...'">
@@ -129,12 +209,28 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Settings...">
+        <Item>
+          <IdeaActionID>ShowSettings</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+S'</ShortCut>
+          <Description>Settings...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Execution Point">
+        <Item>
+          <IdeaActionID>ShowExecutionPoint</IdeaActionID>
+          <ShortCut>'Alt+F10'</ShortCut>
+          <Description>Show Execution Point</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Step Into">
         <Item>
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -142,7 +238,15 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>12</Count>
+          <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ChannelMasksTests.FOO'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ChannelMasksTests.FOO'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'course2.week2.ContigsKt'">
@@ -182,7 +286,15 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'course2.week4.AllTasksKt'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="TODO">
+        <Item>
+          <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
+          <ShortCut>'Alt+6'</ShortCut>
+          <Description>TODO</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -190,7 +302,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>18</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Case">
@@ -201,12 +313,28 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Type Declaration">
+        <Item>
+          <IdeaActionID>GotoTypeDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+B' or 'Ctrl+Shift+Button1 Click'</ShortCut>
+          <Description>Type Declaration</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Update Project...">
+        <Item>
+          <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
+          <ShortCut>'Ctrl+T'</ShortCut>
+          <Description>Update Project...</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Version Control">
         <Item>
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
     </option>

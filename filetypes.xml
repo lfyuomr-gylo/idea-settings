@@ -4,6 +4,7 @@
       <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern="file_sizes" type="PLAIN_TEXT" />
       <mapping pattern="correct" type="PLAIN_TEXT" />
+      <mapping pattern="foo" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
