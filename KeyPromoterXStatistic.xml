@@ -22,7 +22,23 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>23</Count>
+          <Count>24</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'MainIntegTests.name'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'MainIntegTests.name'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'MatrixPixmapReaderTests.shouldConsumeAll...'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'MatrixPixmapReaderTests.shouldConsumeAll...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="GoTo">
@@ -30,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>61</Count>
+          <Count>67</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -103,6 +119,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'ChannelMasksTests.shouldApplyChannelMapperOnlyOnActiveFilters'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'MainIntegTests.name'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'MainIntegTests.name'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'MatrixPixmapReaderTests.shouldConsumeAllPixels'">
@@ -198,7 +222,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>51</Count>
+          <Count>97</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -206,7 +230,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>76</Count>
+          <Count>77</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -215,6 +239,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'All Tests'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'MainIntegTests.name'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'MainIntegTests.name'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'course2.week2.StringReconstructionFromRe...'">
@@ -238,15 +270,15 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Step Into">
+      <Statistic Action="Step Out">
         <Item>
-          <IdeaActionID>StepInto</IdeaActionID>
-          <ShortCut>'F7'</ShortCut>
-          <Description>Step Into</Description>
-          <Count>2</Count>
+          <IdeaActionID>StepOut</IdeaActionID>
+          <ShortCut>'Shift+F8'</ShortCut>
+          <Description>Step Out</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -254,7 +286,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>14</Count>
+          <Count>175</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ChannelMasksTests.FOO'">
@@ -263,6 +295,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'ChannelMasksTests.FOO'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MainIntegTests.name'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'MainIntegTests.name'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MatrixPixmapReaderTests.shouldConsumeAllPixels'">
@@ -350,7 +390,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -361,8 +401,24 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="View Breakpoints...">
+        <Item>
+          <IdeaActionID>ViewBreakpoints</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F8'</ShortCut>
+          <Description>View Breakpoints...</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Step Into">
+        <Item>
+          <IdeaActionID>StepInto</IdeaActionID>
+          <ShortCut>'F7'</ShortCut>
+          <Description>Step Into</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
         <Item>
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
