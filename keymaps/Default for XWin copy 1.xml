@@ -10,4 +10,8 @@
     <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
   <action id="GotoSuperMethod" />
+  <action id="Refactorings.QuickListPopupAction" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
 </keymap>
