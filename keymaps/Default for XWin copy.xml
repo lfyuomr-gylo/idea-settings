@@ -1,0 +1,59 @@
+<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="ActivateDocumentationToolWindow">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="ActivateGradleToolWindow">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="ChangesView.UnshelveSilently" />
+  <action id="CollapseAll" />
+  <action id="Console.History.Browse" />
+  <action id="EditorChooseLookupItemDot" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="ctrl alt e" />
+  </action>
+  <action id="ExternalSystem.CollapseAll" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="ctrl alt u" />
+  </action>
+  <action id="FindUsagesInFile">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
+  <action id="GotoSuperMethod" />
+  <action id="Images.Editor.ZoomOut" />
+  <action id="Maven.CollapseAll" />
+  <action id="MoveLineDown" />
+  <action id="MoveLineUp" />
+  <action id="PerforceDirect.Edit" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
+  <action id="ShowUmlDiagramPopup" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+</keymap>

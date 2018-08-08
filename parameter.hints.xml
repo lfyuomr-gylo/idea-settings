@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Kotlin">
+        <added pattern="com.bostongene.kb.annotations.resource.integration.hippocrates.ClinicalEvidenceResourceTests.requestClinicalEvidence(content)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

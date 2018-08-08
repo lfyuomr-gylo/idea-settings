@@ -1,0 +1,27 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="bm" type="Groovy" />
+      <mapping pattern="mcpcounter" type="PLAIN_TEXT" />
+      <mapping pattern="invalid_male" type="PLAIN_TEXT" />
+      <mapping pattern="geneset" type="PLAIN_TEXT" />
+      <mapping pattern="year_range" type="PLAIN_TEXT" />
+      <mapping pattern="foobar" type="PLAIN_TEXT" />
+      <mapping pattern="thith" type="PLAIN_TEXT" />
+      <mapping pattern="resources/SimpleVocabularyValidatorTests/listOfWords" type="PLAIN_TEXT" />
+      <mapping pattern="cibersort" type="PLAIN_TEXT" />
+      <mapping pattern="faults" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="after" type="PLAIN_TEXT" />
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
+      <mapping pattern="vaccine" type="PLAIN_TEXT" />
+      <mapping ext="kspm" type="PLAIN_TEXT" />
+      <mapping ext="vcf" type="PLAIN_TEXT" />
+      <mapping ext="extensionmodule" type="PLAIN_TEXT" />
+      <mapping ext="jso" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="factories" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
