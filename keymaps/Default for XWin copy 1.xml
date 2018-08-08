@@ -3,6 +3,10 @@
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
   <action id="ChangesView.UnshelveSilently" />
+  <action id="Console.History.Browse" />
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="ctrl alt e" />
+  </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="ctrl alt u" />
   </action>
