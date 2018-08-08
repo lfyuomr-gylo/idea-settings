@@ -5,7 +5,7 @@
       <list>
         <TemplateResource>
           <option name="fileName" value="BostonGene property format" />
-          <option name="template" value="#if($field.modifierStatic)&#10;static ##&#10;#end&#10;$field.type ##&#10;#set($name = $StringUtil.sanitizeJavaIdentifier($helper.getPropertyName($field, $project)))&#10;${name}() {&#10;  return $field.name;&#10;}" />
+          <option name="template" value="#if($field.modifierStatic)&#10;static ##&#10;#end&#10;$field.type ##&#10;#set($name = $StringUtil.sanitizeJavaIdentifier($helper.getPropertyName($field, $project)))&#10;${name}() {&#10;  return this.$field.name;&#10;}" />
         </TemplateResource>
       </list>
     </option>
