@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDocumentationToolWindow</IdeaActionID>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Documentation</Description>
-          <Count>36</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
