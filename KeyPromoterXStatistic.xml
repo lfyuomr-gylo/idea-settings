@@ -921,6 +921,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Foo'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Foo'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'GeneSetTests'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1094,7 +1102,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>215</Count>
+          <Count>216</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
