@@ -433,6 +433,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'EvaluationTest.should evaluate biomarkers on the dataset appropriately'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'EvaluationTest.should evaluate biomarkers on the dataset appropriately'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'GetClinicalEvidenceResourceTests.should return list of cohorts'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -614,7 +622,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>377</Count>
+          <Count>379</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '/home/bg-khotov/bostongene/annotations-service/build.gradle'">
@@ -1086,7 +1094,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1458</Count>
+          <Count>1459</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Case">
