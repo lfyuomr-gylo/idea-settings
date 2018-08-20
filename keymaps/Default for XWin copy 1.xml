@@ -30,6 +30,9 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="ToggleLineBreakpoint">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
