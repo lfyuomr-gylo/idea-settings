@@ -62,7 +62,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>138</Count>
+          <Count>140</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AnnotationsServiceApplication'">
@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDocumentationToolWindow</IdeaActionID>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Documentation</Description>
-          <Count>37</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -822,7 +822,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>34</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Split Vertically">
