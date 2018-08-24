@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>95</Count>
+          <Count>96</Count>
         </Item>
       </Statistic>
       <Statistic Action="Documentation">
@@ -977,6 +977,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'MongoArticleAnnotationRepositoryTests.cursor fetches only completed annotations'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'MongoArticleAnnotationRepositoryTests.cursor fetches only completed annotations'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'OutcomeResourceTests'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1134,7 +1142,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>223</Count>
+          <Count>228</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
