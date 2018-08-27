@@ -985,6 +985,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'MutationTests.should accept nonnull parameters in mutation.load'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'MutationTests.should accept nonnull parameters in mutation.load'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'OutcomeResourceTests'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
