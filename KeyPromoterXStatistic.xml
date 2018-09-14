@@ -966,7 +966,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'AvicennaApplication'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ClinicalTrialResourceTests.should return BAD REQUEST if a clinical trial with invalid randomization id is passed to update endpoint'">
@@ -1222,7 +1222,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>241</Count>
+          <Count>242</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
