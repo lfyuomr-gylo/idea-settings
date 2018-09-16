@@ -174,7 +174,7 @@
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
           <ShortCut>'Alt+3'</ShortCut>
           <Description>Find</Description>
-          <Count>96</Count>
+          <Count>97</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -246,7 +246,7 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Messages</Description>
-          <Count>205</Count>
+          <Count>208</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Folder...">
@@ -1222,7 +1222,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1576</Count>
+          <Count>1577</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Case">
