@@ -985,6 +985,14 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'BiomarkerBuilderTests'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'BiomarkerBuilderTests'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'ClinicalTrialResourceTests.should return BAD REQUEST if a clinical trial with invalid randomization id is passed to update endpoint'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1230,7 +1238,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1583</Count>
+          <Count>1584</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Case">
@@ -1246,7 +1254,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>260</Count>
+          <Count>261</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
