@@ -702,7 +702,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>481</Count>
+          <Count>482</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '/home/bg-khotov/bostongene/annotations-service/build.gradle'">
@@ -902,7 +902,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
