@@ -473,6 +473,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'EntitesSearchResourceTests.should return autocompletion options in appropriate format'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'EntitesSearchResourceTests.should return autocompletion options in appropriate format'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'EvaluationApplication'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
