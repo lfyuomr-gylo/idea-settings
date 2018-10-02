@@ -254,7 +254,7 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Messages</Description>
-          <Count>218</Count>
+          <Count>219</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Folder...">
@@ -814,6 +814,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'Tests in 'com.boston...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'TherapyClassTests'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'TherapyClassTests'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
