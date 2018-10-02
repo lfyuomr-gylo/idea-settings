@@ -254,7 +254,7 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Messages</Description>
-          <Count>219</Count>
+          <Count>220</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Folder...">
@@ -1334,7 +1334,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1638</Count>
+          <Count>1639</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Case">
