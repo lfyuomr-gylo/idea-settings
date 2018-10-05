@@ -92,7 +92,7 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/bostongene/candidates-tests/ivansaprykin" />
+    <option name="cloneParentDir" value="$USER_HOME$/bostongene/candidate-tests/ivansaprykin" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
