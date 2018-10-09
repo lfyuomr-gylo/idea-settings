@@ -1350,7 +1350,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1641</Count>
+          <Count>1642</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Case">
@@ -1398,7 +1398,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
     </option>
