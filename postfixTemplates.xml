@@ -1,12 +1,4 @@
 <application>
-  <component name="PostfixTemplates">
-    <template id="notblank@userDefined" key=".notblank" provider="builtin.java" language-level="1.3" topmost="false">
-      <conditions>
-        <condition id="fqn" fqn="java.lang.Object" />
-      </conditions>
-      <template name="fakeKey" value="argNotBlank($EXPR$, &quot;$EXPR$ is required&quot;)" toReformat="true" toShortenFQNames="true" />
-    </template>
-  </component>
   <component name="PostfixTemplatesSettings">
     <option name="providerToDisabledTemplates">
       <disabled-templates provider="builtin.java">
@@ -19,9 +11,7 @@
             <option value="com.intellij.codeInsight.template.postfix.templates.IntroduceVariablePostfixTemplate#.var" />
             <option value="com.intellij.codeInsight.template.postfix.templates.IsNullCheckPostfixTemplate#.null" />
             <option value="com.intellij.codeInsight.template.postfix.templates.NotExpressionPostfixTemplate#!" />
-            <option value="com.intellij.codeInsight.template.postfix.templates.NotExpressionPostfixTemplate#.not" />
             <option value="com.intellij.codeInsight.template.postfix.templates.NotNullCheckPostfixTemplate#.nn" />
-            <option value="com.intellij.codeInsight.template.postfix.templates.NotNullCheckPostfixTemplate#.notnull" />
             <option value="com.intellij.codeInsight.template.postfix.templates.ParenthesizedExpressionPostfixTemplate#.par" />
             <option value="com.intellij.codeInsight.template.postfix.templates.TryStatementPostfixTemplate#.try" />
             <option value="de.plushnikov.intellij.plugin.extension.postfix.LombokValPostfixTemplate#.val" />
