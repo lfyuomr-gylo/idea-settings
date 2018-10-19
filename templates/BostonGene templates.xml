@@ -1,0 +1,12 @@
+<templateSet group="BostonGene templates">
+  <template name="argNotNull" value="com.bostongene.platform.cloud.commons.util.lang.Guard.argNotNull($SELECTION$, &quot;$SELECTION$ is required&quot;)$END$" description="Use argNotNull expression" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="argNotBlank" value="com.bostongene.platform.cloud.commons.util.lang.Guard.argNotBlank($SELECTION$, &quot;$SELECTION$ is required&quot;)$END$" description="Wrap with argNotBlank call" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+</templateSet>
