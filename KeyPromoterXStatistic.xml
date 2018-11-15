@@ -158,7 +158,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>328</Count>
+          <Count>329</Count>
         </Item>
       </Statistic>
       <Statistic Action="Documentation">
@@ -1398,7 +1398,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1664</Count>
+          <Count>1665</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Case">
