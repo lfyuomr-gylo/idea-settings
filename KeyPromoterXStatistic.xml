@@ -158,7 +158,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>342</Count>
+          <Count>344</Count>
         </Item>
       </Statistic>
       <Statistic Action="Documentation">
@@ -310,7 +310,7 @@
           <IdeaActionID>EditorPasteFromX11</IdeaActionID>
           <ShortCut>'Button2 Click'</ShortCut>
           <Description>Paste from X clipboard</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
