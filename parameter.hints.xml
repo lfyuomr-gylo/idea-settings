@@ -4,6 +4,9 @@
       <blacklist language="Kotlin">
         <added pattern="com.bostongene.kb.annotations.resource.integration.hippocrates.ClinicalEvidenceResourceTests.requestClinicalEvidence(content)" />
       </blacklist>
+      <blacklist language="Java">
+        <added pattern="java.util.Optional.orElse(other)" />
+      </blacklist>
     </blacklists>
   </component>
 </application>
