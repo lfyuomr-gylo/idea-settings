@@ -3,6 +3,7 @@
     <blacklists>
       <blacklist language="Java">
         <added pattern="java.util.Optional.orElse(other)" />
+        <added pattern="com.bostongene.platform.cloud.commons.util.lang.Guard.argNotNull(arg,message)" />
       </blacklist>
       <blacklist language="Kotlin">
         <added pattern="com.bostongene.kb.annotations.resource.integration.hippocrates.ClinicalEvidenceResourceTests.requestClinicalEvidence(content)" />
