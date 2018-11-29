@@ -6,6 +6,9 @@
         <added pattern="com.bostongene.platform.cloud.commons.util.lang.Guard.argNotNull(arg,message)" />
         <added pattern="com.bostongene.platform.cloud.commons.util.lang.Guard.preconditionIsFalse(precondition,message)" />
         <added pattern="com.bostongene.avicenna.domain.model.therapyclass.TherapyClassesHierarchyWalker.subclassesOf(therapyClass,filter)" />
+        <added pattern="com.bostongene.platform.cloud.commons.util.lang.Guard.argNotEmpty(collection,message)" />
+        <added pattern="com.bostongene.avicenna.domain.model.therapyclass.TherapyClassesHierarchyConstraintViolation.TherapyClassesHierarchyConstraintViolation(message,conflictingTherapyClasses)" />
+        <added pattern="com.bostongene.platform.cloud.commons.util.lang.Guard.preconditionIsTrue(precondition,message)" />
       </blacklist>
       <blacklist language="Kotlin">
         <added pattern="com.bostongene.kb.annotations.resource.integration.hippocrates.ClinicalEvidenceResourceTests.requestClinicalEvidence(content)" />
