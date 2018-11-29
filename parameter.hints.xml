@@ -5,6 +5,7 @@
         <added pattern="java.util.Optional.orElse(other)" />
         <added pattern="com.bostongene.platform.cloud.commons.util.lang.Guard.argNotNull(arg,message)" />
         <added pattern="com.bostongene.platform.cloud.commons.util.lang.Guard.preconditionIsFalse(precondition,message)" />
+        <added pattern="com.bostongene.avicenna.domain.model.therapyclass.TherapyClassesHierarchyWalker.subclassesOf(therapyClass,filter)" />
       </blacklist>
       <blacklist language="Kotlin">
         <added pattern="com.bostongene.kb.annotations.resource.integration.hippocrates.ClinicalEvidenceResourceTests.requestClinicalEvidence(content)" />
