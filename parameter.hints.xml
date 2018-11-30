@@ -14,6 +14,9 @@
       <blacklist language="Kotlin">
         <added pattern="com.bostongene.kb.annotations.resource.integration.hippocrates.ClinicalEvidenceResourceTests.requestClinicalEvidence(content)" />
         <added pattern="com.bostongene.avicenna.application.therapyhierarchy.TherapyClassesHierarchyItem(therapyClassId,canonicalName)" />
+        <added pattern="org.springframework.test.web.servlet.request.MockMvcRequestBuilders.put(urlTemplate,uriVars)" />
+        <added pattern="org.springframework.test.web.servlet.request.MockHttpServletRequestBuilder.content(content)" />
+        <added pattern="org.springframework.test.web.servlet.request.MockMvcRequestBuilders.post(urlTemplate,uriVars)" />
       </blacklist>
     </blacklists>
   </component>
