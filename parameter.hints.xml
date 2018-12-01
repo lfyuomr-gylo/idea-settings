@@ -20,6 +20,7 @@
         <added pattern="com.bostongene.avicenna.domain.model.therapyclass.TherapyClass.Name(name)" />
         <added pattern="com.bostongene.avicenna.domain.model.therapyclass.TherapyClass.Id(id)" />
         <added pattern="kotlin.AssertionError(detailMessage)" />
+        <added pattern="com.bostongene.avicenna.domain.model.therapyclass.TherapyClassFilterTests.TestCase(firstFilter,secondFilter,firstFilterShouldCoverSecondOne)" />
       </blacklist>
     </blacklists>
   </component>
