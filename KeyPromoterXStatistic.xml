@@ -158,7 +158,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>440</Count>
+          <Count>441</Count>
         </Item>
       </Statistic>
       <Statistic Action="Documentation">
@@ -262,7 +262,7 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Messages</Description>
-          <Count>238</Count>
+          <Count>242</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Folder...">
@@ -750,7 +750,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>526</Count>
+          <Count>537</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '/home/bg-khotov/bostongene/annotations-service/build.gradle'">
@@ -1398,7 +1398,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1694</Count>
+          <Count>1695</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Case">
