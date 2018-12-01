@@ -17,6 +17,8 @@
         <added pattern="org.springframework.test.web.servlet.request.MockMvcRequestBuilders.put(urlTemplate,uriVars)" />
         <added pattern="org.springframework.test.web.servlet.request.MockHttpServletRequestBuilder.content(content)" />
         <added pattern="org.springframework.test.web.servlet.request.MockMvcRequestBuilders.post(urlTemplate,uriVars)" />
+        <added pattern="com.bostongene.avicenna.domain.model.therapyclass.TherapyClass.Name(name)" />
+        <added pattern="com.bostongene.avicenna.domain.model.therapyclass.TherapyClass.Id(id)" />
       </blacklist>
     </blacklists>
   </component>
