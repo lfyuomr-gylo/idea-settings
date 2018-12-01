@@ -23,5 +23,6 @@
         <added pattern="com.bostongene.avicenna.domain.model.therapyclass.TherapyClassFilterTests.TestCase(firstFilter,secondFilter,firstFilterShouldCoverSecondOne)" />
       </blacklist>
     </blacklists>
+    <option id="SHOW_FUNCTION_HINT" value="true" />
   </component>
 </application>
