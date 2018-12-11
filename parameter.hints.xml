@@ -24,6 +24,7 @@
         <added pattern="kotlin.AssertionError(detailMessage)" />
         <added pattern="com.bostongene.avicenna.domain.model.therapyclass.TherapyClassFilterTests.TestCase(firstFilter,secondFilter,firstFilterShouldCoverSecondOne)" />
         <added pattern="com.bostongene.avicenna.port.adapter.persistence.PostgresTherapyClassesHierarchyWalkerTests.loadInitialData(sqlScriptName)" />
+        <added pattern="com.bostongene.avicenna.domain.model.therapyclass.TherapyClassesHierarchyConstraintViolation(message,conflictingTherapyClasses)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_FUNCTION_HINT" value="true" />
