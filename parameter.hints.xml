@@ -25,8 +25,10 @@
         <added pattern="com.bostongene.avicenna.domain.model.therapyclass.TherapyClassFilterTests.TestCase(firstFilter,secondFilter,firstFilterShouldCoverSecondOne)" />
         <added pattern="com.bostongene.avicenna.port.adapter.persistence.PostgresTherapyClassesHierarchyWalkerTests.loadInitialData(sqlScriptName)" />
         <added pattern="com.bostongene.avicenna.domain.model.therapyclass.TherapyClassesHierarchyConstraintViolation(message,conflictingTherapyClasses)" />
+        <added pattern="com.bostongene.avicenna.domain.model.drug.Drug.Name(name)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_FUNCTION_HINT" value="true" />
+    <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
   </component>
 </application>
