@@ -26,6 +26,7 @@
         <added pattern="com.bostongene.avicenna.port.adapter.persistence.PostgresTherapyClassesHierarchyWalkerTests.loadInitialData(sqlScriptName)" />
         <added pattern="com.bostongene.avicenna.domain.model.therapyclass.TherapyClassesHierarchyConstraintViolation(message,conflictingTherapyClasses)" />
         <added pattern="com.bostongene.avicenna.domain.model.drug.Drug.Name(name)" />
+        <added pattern="org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get(urlTemplate,uriVars)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_FUNCTION_HINT" value="true" />
