@@ -12,6 +12,7 @@
         <added pattern="com.bostongene.avicenna.application.TherapyClassModificationService.runTherapyClassAction(action,successDescription)" />
         <added pattern="com.bostongene.avicenna.port.adapter.backoffice.TherapyClassResource.hierarchyConstraintViolationSummary(briefErrorDescription,constraintViolation)" />
         <added pattern="com.bostongene.avicenna.port.adapter.resources.HttpResponseUtils.badRequest(message,errorDetails)" />
+        <added pattern="com.bostongene.avicenna.port.adapter.backoffice.view.EntityCreatedResponse.EntityCreatedResponse(info,assignedId)" />
       </blacklist>
       <blacklist language="Kotlin">
         <added pattern="com.bostongene.kb.annotations.resource.integration.hippocrates.ClinicalEvidenceResourceTests.requestClinicalEvidence(content)" />
