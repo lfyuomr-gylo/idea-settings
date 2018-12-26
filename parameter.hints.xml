@@ -29,6 +29,7 @@
         <added pattern="com.bostongene.avicenna.domain.model.therapyclass.TherapyClassesHierarchyConstraintViolation(message,conflictingTherapyClasses)" />
         <added pattern="com.bostongene.avicenna.domain.model.drug.Drug.Name(name)" />
         <added pattern="org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get(urlTemplate,uriVars)" />
+        <added pattern="org.assertj.core.api.ListAssert.describedAs(description,args)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_FUNCTION_HINT" value="true" />
