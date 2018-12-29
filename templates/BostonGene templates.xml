@@ -1,0 +1,24 @@
+<templateSet group="BostonGene templates">
+  <template name="assertArgNotNull" value="com.bostongene.platform.cloud.commons.util.lang.Guard.argNotNull($ARG$, &quot;$ARG$ is required&quot;);$END$" description="Assert argNotNull expression" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="ARG" expression="suggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="assertArgNotBlank" value="com.bostongene.platform.cloud.commons.util.lang.Guard.argNotBlank($ARG$, &quot;$ARG$ is required&quot;);$END$" description="Assert with Guard.argNotBlank call" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="ARG" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="argNotBlank" value="com.bostongene.platform.cloud.commons.util.lang.Guard.argNotBlank($SELECTION$, &quot;$SELECTION$ is required&quot;)$END$" description="Wrap with Guard.argNotBlank" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="argNotNull" value="com.bostongene.platform.cloud.commons.util.lang.Guard.argNotNull($SELECTION$, &quot;$SELECTION$ is required&quot;)$END$" description="Wrap wiht Guard.argNotNull" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+</templateSet>

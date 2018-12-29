@@ -1,0 +1,48 @@
+<application>
+  <component name="PostfixTemplatesSettings">
+    <option name="providerToDisabledTemplates">
+      <disabled-templates provider="builtin.java">
+        <value>
+          <set>
+            <option value="arg" />
+            <option value="assert" />
+            <option value="com.intellij.codeInsight.template.postfix.templates.ElseStatementPostfixTemplate#.else" />
+            <option value="com.intellij.codeInsight.template.postfix.templates.IfStatementPostfixTemplate#.if" />
+            <option value="com.intellij.codeInsight.template.postfix.templates.IntroduceVariablePostfixTemplate#.var" />
+            <option value="com.intellij.codeInsight.template.postfix.templates.IsNullCheckPostfixTemplate#.null" />
+            <option value="com.intellij.codeInsight.template.postfix.templates.NotExpressionPostfixTemplate#!" />
+            <option value="com.intellij.codeInsight.template.postfix.templates.NotNullCheckPostfixTemplate#.nn" />
+            <option value="com.intellij.codeInsight.template.postfix.templates.ParenthesizedExpressionPostfixTemplate#.par" />
+            <option value="com.intellij.codeInsight.template.postfix.templates.TryStatementPostfixTemplate#.try" />
+            <option value="de.plushnikov.intellij.plugin.extension.postfix.LombokValPostfixTemplate#.val" />
+            <option value="de.plushnikov.intellij.plugin.extension.postfix.LombokVarPostfixTemplate#.varl" />
+            <option value="format" />
+            <option value="forr" />
+            <option value="reqnonnull" />
+            <option value="return" />
+            <option value="synchronized" />
+            <option value="throw" />
+          </set>
+        </value>
+      </disabled-templates>
+      <disabled-templates provider="org.jetbrains.kotlin.idea.codeInsight.postfix.KtPostfixTemplateProvider">
+        <value>
+          <set>
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtAssertPostfixTemplate#.assert" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtElseExpressionPostfixTemplate#.else" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtForEachPostfixTemplate#.for" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtIfExpressionPostfixTemplate#.if" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtIntroduceVariablePostfixTemplate#.val" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtIntroduceVariablePostfixTemplate#.var" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtIsNullPostfixTemplate#.null" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtNotNullPostfixTemplate#.nn" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtNotNullPostfixTemplate#.notnull" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtNotPostfixTemplate#.not" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtParenthesizedPostfixTemplate#.par" />
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtTryPostfixTemplate#.try" />
+          </set>
+        </value>
+      </disabled-templates>
+    </option>
+  </component>
+</application>

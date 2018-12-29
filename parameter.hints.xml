@@ -1,5 +1,37 @@
 <application>
   <component name="ParameterNameHintsSettings">
-    <blacklists />
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="java.util.Optional.orElse(other)" />
+        <added pattern="com.bostongene.platform.cloud.commons.util.lang.Guard.argNotNull(arg,message)" />
+        <added pattern="com.bostongene.platform.cloud.commons.util.lang.Guard.preconditionIsFalse(precondition,message)" />
+        <added pattern="com.bostongene.avicenna.domain.model.therapyclass.TherapyClassesHierarchyWalker.subclassesOf(therapyClass,filter)" />
+        <added pattern="com.bostongene.platform.cloud.commons.util.lang.Guard.argNotEmpty(collection,message)" />
+        <added pattern="com.bostongene.avicenna.domain.model.therapyclass.TherapyClassesHierarchyConstraintViolation.TherapyClassesHierarchyConstraintViolation(message,conflictingTherapyClasses)" />
+        <added pattern="com.bostongene.platform.cloud.commons.util.lang.Guard.preconditionIsTrue(precondition,message)" />
+        <added pattern="com.bostongene.avicenna.application.TherapyClassModificationService.runTherapyClassAction(action,successDescription)" />
+        <added pattern="com.bostongene.avicenna.port.adapter.backoffice.TherapyClassResource.hierarchyConstraintViolationSummary(briefErrorDescription,constraintViolation)" />
+        <added pattern="com.bostongene.avicenna.port.adapter.resources.HttpResponseUtils.badRequest(message,errorDetails)" />
+        <added pattern="com.bostongene.avicenna.port.adapter.backoffice.view.EntityCreatedResponse.EntityCreatedResponse(info,assignedId)" />
+        <added pattern="com.bostongene.avicenna.port.adapter.api.resources.AllDrugsTsvResource.TsvColumnExtractor.TsvColumnExtractor(columnName,columnExtractor)" />
+      </blacklist>
+      <blacklist language="Kotlin">
+        <added pattern="com.bostongene.kb.annotations.resource.integration.hippocrates.ClinicalEvidenceResourceTests.requestClinicalEvidence(content)" />
+        <added pattern="com.bostongene.avicenna.application.therapyhierarchy.TherapyClassesHierarchyItem(therapyClassId,canonicalName)" />
+        <added pattern="org.springframework.test.web.servlet.request.MockMvcRequestBuilders.put(urlTemplate,uriVars)" />
+        <added pattern="org.springframework.test.web.servlet.request.MockHttpServletRequestBuilder.content(content)" />
+        <added pattern="org.springframework.test.web.servlet.request.MockMvcRequestBuilders.post(urlTemplate,uriVars)" />
+        <added pattern="com.bostongene.avicenna.domain.model.therapyclass.TherapyClass.Name(name)" />
+        <added pattern="com.bostongene.avicenna.domain.model.therapyclass.TherapyClass.Id(id)" />
+        <added pattern="kotlin.AssertionError(detailMessage)" />
+        <added pattern="com.bostongene.avicenna.domain.model.therapyclass.TherapyClassFilterTests.TestCase(firstFilter,secondFilter,firstFilterShouldCoverSecondOne)" />
+        <added pattern="com.bostongene.avicenna.port.adapter.persistence.PostgresTherapyClassesHierarchyWalkerTests.loadInitialData(sqlScriptName)" />
+        <added pattern="com.bostongene.avicenna.domain.model.therapyclass.TherapyClassesHierarchyConstraintViolation(message,conflictingTherapyClasses)" />
+        <added pattern="com.bostongene.avicenna.domain.model.drug.Drug.Name(name)" />
+        <added pattern="org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get(urlTemplate,uriVars)" />
+        <added pattern="org.assertj.core.api.ListAssert.describedAs(description,args)" />
+      </blacklist>
+    </blacklists>
+    <option id="SHOW_FUNCTION_HINT" value="true" />
   </component>
 </application>
