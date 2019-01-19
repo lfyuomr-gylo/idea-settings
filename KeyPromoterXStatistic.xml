@@ -166,7 +166,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>528</Count>
+          <Count>531</Count>
         </Item>
       </Statistic>
       <Statistic Action="Documentation">
@@ -1305,6 +1305,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'TherapyClassInheritedPropertiesProjectionMaintainerTests'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'TherapyClassInheritedPropertiesProjectionMaintainerTests'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'TherapyClassResourceTests.should return requested therapy class in appropriate format'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1470,7 +1478,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>463</Count>
+          <Count>465</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
