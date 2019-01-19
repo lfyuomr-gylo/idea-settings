@@ -166,7 +166,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>526</Count>
+          <Count>527</Count>
         </Item>
       </Statistic>
       <Statistic Action="Documentation">
@@ -1049,6 +1049,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop ':backend:integTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop ':backend:integTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop ':bootRun'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1462,7 +1470,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>461</Count>
+          <Count>463</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
