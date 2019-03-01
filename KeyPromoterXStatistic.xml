@@ -198,7 +198,7 @@
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
           <ShortCut>'Alt+3'</ShortCut>
           <Description>Find</Description>
-          <Count>217</Count>
+          <Count>218</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -774,7 +774,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>601</Count>
+          <Count>602</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '/home/bg-khotov/bostongene/annotations-service/build.gradle'">
