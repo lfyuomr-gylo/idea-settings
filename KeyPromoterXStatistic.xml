@@ -174,7 +174,7 @@
           <IdeaActionID>ActivateDocumentationToolWindow</IdeaActionID>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Documentation</Description>
-          <Count>69</Count>
+          <Count>72</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -334,7 +334,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>50</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
