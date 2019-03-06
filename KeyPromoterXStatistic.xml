@@ -814,7 +814,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'EvaluationApplication'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'EvaluationTest'">
@@ -1439,6 +1439,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'avicenna:backend [bootRun]'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'biomarker-annotations [EvaluationApplication.main()]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'biomarker-annotations [EvaluationApplication.main()]'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'biomarker-annotations [build]'">
