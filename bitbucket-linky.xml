@@ -9,15 +9,4 @@
     <lookup />
   </component>
   <component name="Instance" id="7435bf47-7370-40e4-9c8a-f706b3522abe" version="6.3" />
-  <component name="UsageLog">
-    <event name="CreatePullRequest" place="EditorPopup" timestamp="2019-03-11T13:37:47.886Z">
-      <attribute name="bitbucket">cloud</attribute>
-    </event>
-    <event name="FindRelatedPullRequests" place="GoToAction" timestamp="2019-03-11T13:39:46.383Z">
-      <attribute name="bitbucket">cloud</attribute>
-    </event>
-    <event name="OpenPullRequest" place="unknown" timestamp="2019-03-11T13:39:58.351Z">
-      <attribute name="bitbucket">cloud</attribute>
-    </event>
-  </component>
 </application>
