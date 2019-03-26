@@ -174,7 +174,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>694</Count>
+          <Count>695</Count>
         </Item>
       </Statistic>
       <Statistic Action="Documentation">
@@ -254,7 +254,7 @@
           <IdeaActionID>ActivateGradleToolWindow</IdeaActionID>
           <ShortCut>'Alt+G'</ShortCut>
           <Description>Gradle</Description>
-          <Count>177</Count>
+          <Count>179</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -1022,7 +1022,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>32</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show All Affected Files">
