@@ -174,7 +174,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>733</Count>
+          <Count>735</Count>
         </Item>
       </Statistic>
       <Statistic Action="Documentation">
@@ -342,7 +342,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>51</Count>
+          <Count>52</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -790,7 +790,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>642</Count>
+          <Count>646</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '/home/bg-khotov/bostongene/annotations-service/build.gradle'">
@@ -1510,7 +1510,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1838</Count>
+          <Count>1840</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Case">
@@ -1550,7 +1550,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>112</Count>
+          <Count>114</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
