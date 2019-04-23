@@ -174,7 +174,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>868</Count>
+          <Count>871</Count>
         </Item>
       </Statistic>
       <Statistic Action="Documentation">
@@ -206,7 +206,7 @@
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
           <ShortCut>'Alt+3'</ShortCut>
           <Description>Find</Description>
-          <Count>246</Count>
+          <Count>249</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -1526,7 +1526,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1871</Count>
+          <Count>1872</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Case">
