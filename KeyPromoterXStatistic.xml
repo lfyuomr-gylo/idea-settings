@@ -174,7 +174,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>897</Count>
+          <Count>900</Count>
         </Item>
       </Statistic>
       <Statistic Action="Documentation">
@@ -206,7 +206,7 @@
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
           <ShortCut>'Alt+3'</ShortCut>
           <Description>Find</Description>
-          <Count>270</Count>
+          <Count>271</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
