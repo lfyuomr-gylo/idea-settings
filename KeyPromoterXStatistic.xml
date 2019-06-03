@@ -206,7 +206,7 @@
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
           <ShortCut>'Alt+3'</ShortCut>
           <Description>Find</Description>
-          <Count>296</Count>
+          <Count>298</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -1542,7 +1542,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1944</Count>
+          <Count>1948</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Case">
