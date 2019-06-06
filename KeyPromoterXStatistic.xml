@@ -174,7 +174,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1013</Count>
+          <Count>1014</Count>
         </Item>
       </Statistic>
       <Statistic Action="Documentation">
@@ -286,7 +286,7 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Messages</Description>
-          <Count>294</Count>
+          <Count>295</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Folder...">
