@@ -1062,7 +1062,7 @@
           <IdeaActionID>SplitVertically</IdeaActionID>
           <ShortCut>'Alt+S'</ShortCut>
           <Description>Split Vertically</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">
@@ -1542,7 +1542,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1956</Count>
+          <Count>1959</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Case">
