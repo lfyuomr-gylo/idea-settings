@@ -190,7 +190,7 @@
           <IdeaActionID>ActivateDocumentationToolWindow</IdeaActionID>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Documentation</Description>
-          <Count>92</Count>
+          <Count>93</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -1558,7 +1558,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>2005</Count>
+          <Count>2013</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Case">
