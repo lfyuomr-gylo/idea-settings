@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="special-for-vanno" type="PLAIN_TEXT" />
+      <mapping pattern="api-schemas" type="PLAIN_TEXT" />
       <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping ext="tcxt" type="PLAIN_TEXT" />
     </extensionMap>
