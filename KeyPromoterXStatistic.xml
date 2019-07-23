@@ -1049,6 +1049,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'annotations-service:e2e [e2eTest]'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'annotations-service:e2e [e2eTest]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'biomarker-annotations [validate]'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
