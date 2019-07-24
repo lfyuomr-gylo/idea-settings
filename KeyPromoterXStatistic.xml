@@ -801,6 +801,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'annotations-service:e2e [e2eTest]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'annotations-service:e2e [e2eTest]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'avicenna [bootRun]'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1606,7 +1614,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>713</Count>
+          <Count>715</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
