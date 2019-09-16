@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".biomarkers-validation-cache" type="PLAIN_TEXT" />
       <mapping pattern="special-for-vanno" type="PLAIN_TEXT" />
+      <mapping pattern="ишиф" type="PLAIN_TEXT" />
       <mapping pattern="api-schemas" type="PLAIN_TEXT" />
       <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping pattern="biba" type="PLAIN_TEXT" />
