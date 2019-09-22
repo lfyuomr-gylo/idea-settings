@@ -1,0 +1,9 @@
+<application>
+  <component name="StructuralSearch">
+    <searchConfiguration name="list mapping" text="$Expression$.stream().map($Expression1$).collect(toList())" recursive="true" caseInsensitive="true" type="JAVA" pattern_context="default">
+      <constraint name="__context__" within="" contains="" />
+      <constraint name="Expression" nameOfExprType="Collection" exprTypeWithinHierarchy="true" within="" contains="" />
+      <constraint name="Expression1" nameOfExprType="Function" exprTypeWithinHierarchy="true" within="" contains="" />
+    </searchConfiguration>
+  </component>
+</application>

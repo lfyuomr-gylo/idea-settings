@@ -1,10 +1,10 @@
 <application>
   <component name="GetterTemplates">
-    <option name="defaultTempalteName" value="BostonGene property format" />
+    <option name="defaultTempalteName" value="Bostongene Getters" />
     <option name="templates">
       <list>
         <TemplateResource>
-          <option name="fileName" value="BostonGene property format" />
+          <option name="fileName" value="Bostongene Getters" />
           <option name="template" value="#if($field.modifierStatic)&#10;static ##&#10;#end&#10;$field.type ##&#10;#set($name = $StringUtil.sanitizeJavaIdentifier($helper.getPropertyName($field, $project)))&#10;${name}() {&#10;    #if($field.list)&#10;        return java.util.Collections.unmodifiableList($field.name);&#10;    #else&#10;        #if($field.set)&#10;            return java.util.Collections.unmodifiableSet($field.name);&#10;        #else&#10;            #if($field.map)&#10;                return java.util.Collections.unmodifiableMap($field.name);&#10;            #else&#10;                return $field.name;&#10;            #end&#10;        #end&#10;    #end    &#10;}" />
         </TemplateResource>
       </list>
