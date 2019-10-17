@@ -9,6 +9,7 @@
       <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping pattern="biba" type="PLAIN_TEXT" />
       <mapping ext="tcxt" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
