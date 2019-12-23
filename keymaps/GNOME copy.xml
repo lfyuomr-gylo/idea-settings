@@ -2,6 +2,9 @@
   <action id="ActivateDocumentationToolWindow">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="ActivateGradleToolWindow">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="UpdateRunningApplication" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
