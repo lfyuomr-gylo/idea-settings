@@ -11,6 +11,7 @@
       <mapping pattern="ишиф" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfil" type="PLAIN_TEXT" />
       <mapping pattern="special-for-vanno" type="PLAIN_TEXT" />
+      <mapping ext="ms" type="PLAIN_TEXT" />
       <mapping ext="tcxt" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
